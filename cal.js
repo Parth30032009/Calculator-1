@@ -22,5 +22,6 @@ function divide(){
     document.getElementById("result").innerHTML=num1+"/"+num2+"="+(num1/num2);
     
 }
+console.log("hello")
 
 
